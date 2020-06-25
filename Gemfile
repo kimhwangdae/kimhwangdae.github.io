@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'nokogiri'
-gem 'rack', '~>1.1'
+gem 'rack', '~>2.1'
 gem 'rspec', :require => 'spec'
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
